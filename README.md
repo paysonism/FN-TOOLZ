@@ -1,6 +1,6 @@
 # FN TOOLS
 
-This is a collection of all of the fortnite hacks and tools you will ever need. You can find information on each of the tools included below.
+This is a collection of all of the fortnite hacks and tools you will ever need. You can find information on each of the tools included below. NEVER HACK ON YOUR MAIN ACCOUNT AND ALWAYS US AN ANTI-CHEAT BYPASS!!!
 
 # Atomic Launcher
 Version: 7/15/23
@@ -10,7 +10,7 @@ This is the only Fortnite application (at the time) that allows you to go into g
 
 Discord: https://discord.gg/fndev
 
-# Badware Unban
+# ⭐ Badware Unban
 Verison: 7/15/23
 
 Badware Unban is a PAID version of a fortnite permanant spoofer. The instructions on how to use are in the zip file. I technically am
@@ -35,7 +35,7 @@ This is a free external cheat with aimbot, visuals, and much more. It currently 
 Get Key/Download: https://googlecheatz.store/key/
 Discord: https://discord.gg/qTBrVAQzvr
 
-# SoarFN/WareHub
+# ⭐ SoarFN/WareHub
 Verison: 7/15/23
 
 This is the #1 Free cheat in my opinion. It is almost never down and really trustworthy. This cheat was created by the same develper of the FE2 Fortnite Emulator.
@@ -43,6 +43,26 @@ Pairing this with the Fortnite emulator makes you almost invincible. The anti-ch
 This cheat does a great job of masking the fact that you are hacking. Even on the lowest smoothing settings, it's still hard to tell you are hacking.
 
 Discord: https://discord.gg/YN4HCUjupV
+
+# Codon
+7/14/23
+
+Codon is a another free external fortnite cheat. It works the same way as WareHub and in my opinion is the second best free cheat out there. It is a little more
+complicated to use but I already included everything you need so you dont have to go digging trying to find out what you're doing wrong :). To use this cheat, once
+you extract the files go into the driver folder. There should be 3 files in there, drag the .sys file into the .exe with your operating system on it. After that it
+should briefly open and then pop up text and then close. After that, go ahead and open codon.exe and you should be good! Just FYI, this hack will get you banned if you boot fn noramlly, use FE-2 or Scenery FN (below) to play the game.
+
+Discord: https://discord.gg/RGkpymGAeA
+
+# ⭐ SceneryFN
+Verison: 7/01/23
+
+SceneryFN is a great fortnite emulator or Anti-Cheat bypass. It allows you to play fortnite matches without the fear of getting banned for the cheats you are using. The only
+way you can get banned while using this is if you get report banned. I have gotten this to work with creative a few times but i don't think it works for that most of the time.
+One of the best feature of this emulator is the fact that you can join the game with all cosmetics, skins, etc. This is a lot better than atomic FN as atomic doesn't include a
+AC bypass. I would reccomend using this if you are going to be hacking at all.
+
+Discord: https://discord.gg/SceneryFN
 
 # Credits
 
