@@ -35,6 +35,16 @@ This is a free external cheat with aimbot, visuals, and much more. It currently 
 Get Key/Download: https://googlecheatz.store/key/
 Discord: https://discord.gg/qTBrVAQzvr
 
+# ⭐ SceneryFN
+Verison: 7/01/23
+
+SceneryFN is a great fortnite emulator or Anti-Cheat bypass. It allows you to play fortnite matches without the fear of getting banned for the cheats you are using. The only
+way you can get banned while using this is if you get report banned. I have gotten this to work with creative a few times but i don't think it works for that most of the time.
+One of the best feature of this emulator is the fact that you can join the game with all cosmetics, skins, etc. This is a lot better than atomic FN as atomic doesn't include a
+AC bypass. I would reccomend using this if you are going to be hacking at all.
+
+Discord: https://discord.gg/SceneryFN
+
 # ⭐ SoarFN/WareHub
 Verison: 7/15/23
 
@@ -53,16 +63,6 @@ you extract the files go into the driver folder. There should be 3 files in ther
 should briefly open and then pop up text and then close. After that, go ahead and open codon.exe and you should be good! Just FYI, this hack will get you banned if you boot fn noramlly, use FE-2 or Scenery FN (below) to play the game.
 
 Discord: https://discord.gg/RGkpymGAeA
-
-# ⭐ SceneryFN
-Verison: 7/01/23
-
-SceneryFN is a great fortnite emulator or Anti-Cheat bypass. It allows you to play fortnite matches without the fear of getting banned for the cheats you are using. The only
-way you can get banned while using this is if you get report banned. I have gotten this to work with creative a few times but i don't think it works for that most of the time.
-One of the best feature of this emulator is the fact that you can join the game with all cosmetics, skins, etc. This is a lot better than atomic FN as atomic doesn't include a
-AC bypass. I would reccomend using this if you are going to be hacking at all.
-
-Discord: https://discord.gg/SceneryFN
 
 # Credits
 
