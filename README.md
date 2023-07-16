@@ -10,7 +10,19 @@ This is the only Fortnite application (at the time) that allows you to go into g
 
 Discord: https://discord.gg/fndev
 
-# ⭐ Badware Unban
+# ⭐ Beatware
+
+Beatware is a really good external cheat. It is detected so make sure to use an Anti-Cheat bypasser like SceneryFN or FE2. Both of those are listed below. This cheat is really clean and its hard to tell you are cheating. It is also reallyeasy to use and it doesn't lag all that much. The login for it is BW-FREE for the username and the password. If you need help join the discord.
+
+Discord: https://discord.gg/spoofer
+
+# ⭐ Beatware Spoofer
+
+This spoofer does work really well. It is a temp spoofer so it only lasts until you restart your PC. If you want to play normal fortnite though, it's really good. It takes like 5-6 mins to fully work but, it might be worth it for ya!
+
+Discord: https://discord.gg/spoofer
+
+# Badware Unban
 Verison: 7/15/23
 
 Badware Unban is a PAID version of a fortnite permanant spoofer. The instructions on how to use are in the zip file. I technically am
@@ -45,7 +57,7 @@ AC bypass. I would reccomend using this if you are going to be hacking at all.
 
 Discord: https://discord.gg/SceneryFN
 
-# ⭐ SoarFN/WareHub
+# SoarFN/WareHub
 Verison: 7/15/23
 
 This is the #1 Free cheat in my opinion. It is almost never down and really trustworthy. This cheat was created by the same develper of the FE2 Fortnite Emulator.
@@ -54,7 +66,7 @@ This cheat does a great job of masking the fact that you are hacking. Even on th
 
 Discord: https://discord.gg/YN4HCUjupV
 
-# Codon
+# ⭐ Codon
 7/14/23
 
 Codon is a another free external fortnite cheat. It works the same way as WareHub and in my opinion is the second best free cheat out there. It is a little more
