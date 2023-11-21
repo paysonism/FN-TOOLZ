@@ -1,87 +1,44 @@
-# FN TOOLS
+# FN TOOLZ REPO
 
-This is a collection of all of the fortnite hacks and tools you will ever need. You can find information on each of the tools included below. NEVER HACK ON YOUR MAIN ACCOUNT AND ALWAYS US AN ANTI-CHEAT BYPASS!!!
+This is a collection of FN tools that I use. This consists of cleaners and spoofers and just overall stuff that every fn cheater should have.
 
-# Atomic Launcher
-Version: 7/15/23
+If you sell any of this you are a retard
 
-This is a fortnite launcher that will give you all skins, emotes, pickaxes, and cosmetics in the game (including unreleased ones).
-This is the only Fortnite application (at the time) that allows you to go into games and matches with these skins.
+# FNCLEAN.BAT
 
-Discord: https://discord.gg/fndev
+FNCLEAN.bat is a simple deep cleaner that I made. This takes around 3-4 mins to get through but in the end will make detection rates 99% lower.
 
-# ⭐ Beatware
+To use it just run it as admin and let it do its thing. If it pops up any prompts just click yes.
 
-Beatware is a really good external cheat. It is detected so make sure to use an Anti-Cheat bypasser like SceneryFN or FE2. Both of those are listed below. This cheat is really clean and its hard to tell you are cheating. It is also reallyeasy to use and it doesn't lag all that much. The login for it is BW-FREE for the username and the password. If you need help join the discord.
+# Apple Cleaner
 
-Discord: https://discord.gg/spoofer
+Apple cleaner is the #1 most popular MAC Spoofer and PC cleaner. Just open it as admin and choose option one.
 
-# ⭐ Beatware Spoofer
+When it asks you if you want to reset network adapters **MAKE SURE TO SAY NO!**
 
-This spoofer does work really well. It is a temp spoofer so it only lasts until you restart your PC. If you want to play normal fortnite though, it's really good. It takes like 5-6 mins to fully work but, it might be worth it for ya!
+# Serial Checker
 
-Discord: https://discord.gg/spoofer
+Allows you to check for your Hardware serials such as Disk Drive, BIOS, Mac Address, Motherboard, etc.
 
-# Badware Unban
-Verison: 7/15/23
+This is great as it allows you to see if your spoofer has worked correctly or not.
 
-Badware Unban is a PAID version of a fortnite permanant spoofer. The instructions on how to use are in the zip file. I technically am
-leaking this so dont get me in trouble :).
+# Tournament Fixer
 
-Discord: https://discord.gg/badware
+The free Vanta spoofer (works really well for the supported PC's)
+**DO NOT USE THE CLEANER IN THIS**
 
-# FE2
-Version: 7/12/23
+Unsupported Motherboards
 
-FE-2 is a fortnite Emulator. It allows you to join fortnite games without the fear that the anti-cheat will detect your free cheats and kick
-you from the match or ban you. It work on all BR modes and is really easy to use! The only way you can get banned using this is if you get report banned.
-WARNING: DOES NOT WORK ON CREATIVE 2.0!!!
+- ASUS
+- DELL
+- HP
 
-Discord: https://discord.gg/YN4HCUjupV
+# condef
 
-# Google Loader
-Version: 7/12/23
+Windows Defender Control
 
-This is a free external cheat with aimbot, visuals, and much more. It currently only works on Windows 10 so sorry win 11 users.
+Permanantly Disables your Windows Anti-Virus.
 
-Get Key/Download: https://googlecheatz.store/key/
-Discord: https://discord.gg/qTBrVAQzvr
+# discord.gg/subz
 
-# ⭐ SceneryFN
-Verison: 7/01/23
-
-SceneryFN is a great fortnite emulator or Anti-Cheat bypass. It allows you to play fortnite matches without the fear of getting banned for the cheats you are using. The only
-way you can get banned while using this is if you get report banned. I have gotten this to work with creative a few times but i don't think it works for that most of the time.
-One of the best feature of this emulator is the fact that you can join the game with all cosmetics, skins, etc. This is a lot better than atomic FN as atomic doesn't include a
-AC bypass. I would reccomend using this if you are going to be hacking at all.
-
-Discord: https://discord.gg/SceneryFN
-
-# SoarFN/WareHub
-Verison: 7/15/23
-
-This is the #1 Free cheat in my opinion. It is almost never down and really trustworthy. This cheat was created by the same develper of the FE2 Fortnite Emulator.
-Pairing this with the Fortnite emulator makes you almost invincible. The anti-cheat cannot detect you and the only way you can get banend is if you get reported.
-This cheat does a great job of masking the fact that you are hacking. Even on the lowest smoothing settings, it's still hard to tell you are hacking.
-
-Discord: https://discord.gg/YN4HCUjupV
-
-# ⭐ Codon
-7/14/23
-
-Codon is a another free external fortnite cheat. It works the same way as WareHub and in my opinion is the second best free cheat out there. It is a little more
-complicated to use but I already included everything you need so you dont have to go digging trying to find out what you're doing wrong :). To use this cheat, once
-you extract the files go into the driver folder. There should be 3 files in there, drag the .sys file into the .exe with your operating system on it. After that it
-should briefly open and then pop up text and then close. After that, go ahead and open codon.exe and you should be good! Just FYI, this hack will get you banned if you boot fn noramlly, use FE-2 or Scenery FN (below) to play the game.
-
-Discord: https://discord.gg/RGkpymGAeA
-
-# Credits
-
-None of these cheats were created by me although I do plan on releasing my own forntite cheats very soon. Anyways, if the discord links are outdated or anything, open an issue
-in this repo and also dm me on discord. My discord handle is "paysonism". Anyways, happy hacking!
-
-If you need help with any errors you are getting or you are getting stuck somewhere, feel free to dm me on discord and i will help you out!
-
-Discord: paysonism
-Server: https://discord.gg/tKRp8gjzGH
+# this pack was made by payson
