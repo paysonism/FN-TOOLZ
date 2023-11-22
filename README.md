@@ -27,6 +27,8 @@ This is great as it allows you to see if your spoofer has worked correctly or no
 The free Vanta spoofer (works really well for the supported PC's)
 **DO NOT USE THE CLEANER IN THIS**
 
+License Key: t.me/vantacheats
+
 Unsupported Motherboards
 
 - ASUS
